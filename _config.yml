@@ -1,0 +1,11 @@
+# basic options
+title: Test-Blog
+author: Jason is cool
+email: your-email@domain.com
+description: This site is friggin lit 
+twitter_username: blazeitat420
+github_username:  jasonisapotato
+
+# Build settings
+markdown: kramdown
+theme: minima
